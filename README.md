@@ -7,6 +7,15 @@
 [![Coverage Status][ico-coverage]][link-coverage]
 [![Contributors][ico-contributors]][link-contributors]
 
+
+# FORK'S PURPOSE
+
+Fixed webpack's watcher restarts after each recompilation.
+
+For more info see https://github.com/serverless-heaven/serverless-webpack/issues/465.
+
+
+<hr>
 A Serverless v1.x plugin to build your lambda functions with [Webpack][link-webpack].
 
 This plugin is for you if you want to use the latest Javascript version with [Babel][link-babel];
