@@ -1,3 +1,7 @@
+# ARCHIVED AS [#465](https://github.com/serverless-heaven/serverless-webpack/issues/465) HAS BEEN RESOLVED!
+
+<hr>
+
 # Serverless Webpack
 
 [![Serverless][ico-serverless]][link-serverless]
